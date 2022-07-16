@@ -33,15 +33,15 @@ I'm currently based in **[UP, INDIA.](https://www.google.com/maps/place/Uttar+Pr
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-<img src="https://icons8.com/icon/71257/angularjs"/>
-<img src="https://icons8.com/icon/NfbyHexzVEDk/react"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="70px" heigh="70px"/> <img src="https://img.icons8.com/color/48/000000/css3.png"  width="70px" heigh="70px"/> <img src="https://img.icons8.com/color/48/000000/sass.png"  width="70px" heigh="70px"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="70px" heigh="70px"/> 
 
-<img src="https://icons8.com/icon/20906/git"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+<img src="https://img.icons8.com/plasticine/2x/react.png"  width="70px" heigh="70px"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"  width="70px" heigh="70px"/><img src="https://img.icons8.com/color/2x/angularjs.png"  width="70px" heigh="70px"/>
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png"  width="70px" heigh="70px"/> <img src="https://img.icons8.com/fluency/2x/node-js.png"  width="70px" heigh="70px"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"  width="70px" heigh="70px"/>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"  width="70px" heigh="70px"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"  width="70px" heigh="70px"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"  width="70px" heigh="70px"/>
+
+<img src="https://img.icons8.com/color/2x/git.png"  width="70px" heigh="70px"/> <img src="https://img.icons8.com/color/48/000000/npm.png"  width="70px" heigh="70px"/>
 
 <br>
 
