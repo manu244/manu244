@@ -27,9 +27,17 @@ I'm currently based in **[UP, INDIA.](https://www.google.com/maps/place/Uttar+Pr
 <br>
 
 
+<h2>
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+
+[<img src="https://img.icons8.com/color/2x/linkedin.png" height="70px" align="center" alt="Follow Manish on LinkedIn" title="Follow Manish on LinkedIn"/>](https://www.linkedin.com/in/manish-kumar-vishwakarma-516b78114/)
+[<img src="https://img.icons8.com/color/2x/gmail-new.png" height="70px" align="center" />](mailto:manishkv221010@gmail.com)
+[<img src="https://img.icons8.com/nolan/2x/github.png" height="70px" align="center" />](https://github.com/manu244)
+</h2>
+
 </div>
 
-## What I am Good at 🧑‍💻 :
+## ⚡ Technologies in my STACK 🧑‍💻 :
 
 <br>
 
