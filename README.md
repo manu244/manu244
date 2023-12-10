@@ -53,4 +53,5 @@ I'm currently based in **[UP, INDIA.](https://www.google.com/maps/place/Uttar+Pr
 
 <br>
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="manish-kumar-vishwakarma-516b78114" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/manish-kumar-vishwakarma-516b78114?trk=profile-badge">Manish Kumar Vishwakarma</a></div>
+              
